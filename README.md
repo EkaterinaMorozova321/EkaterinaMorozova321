@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EkaterinaMorozova321
+- 👋 Hi, I’m Ekaterina Morozova
 - 👀 I’m interested in python development
 - 🌱 I’m currently learning python 3.8
 - 💞️ I’m looking to collaborate on python development
